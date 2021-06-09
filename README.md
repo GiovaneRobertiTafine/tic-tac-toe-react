@@ -1,6 +1,6 @@
-## Tic-Tac-Toe
+<h3 align="center">Tic-Tac-Toe</h3>
 
-#### O jogo como um tutorial para aprender React.js
+<h4 align="center">O jogo como um tutorial para aprender React.js</h4>
 
 :o: **Problema:**<br>
 Criar o jogo da Velha em React.js
@@ -33,6 +33,5 @@ npm install
 npm start
 ```
 
-  
-🛸 **Tecnologias:**
+:flying_saucer: **Tecnologias:**
 - React.js
