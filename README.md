@@ -1,38 +1,38 @@
 ## Tic-Tac-Toe
 
-#### Game as a tutorial for learning React.js
+#### O jogo como um tutorial para aprender React.js
 
-:o: **Problem:**<br>
-Play a Tic-Tac-Toe in React.
+:o: **Problema:**<br>
+Criar o jogo da Velha em React.js
 
-:heavy_check_mark: **Solution:**<br>
-Tutorial on the React page: [Tutorial React](https://pt-br.reactjs.org/tutorial/tutorial.html)
+:heavy_check_mark: **Solução:**<br>
+Tutorial na página do React: [Tutorial React](https://pt-br.reactjs.org/tutorial/tutorial.html)
 
-:dart: **Impact:**<br>
-Learning about Technology.
+:dart: **Impacto:**<br>
+Aprendizado sobre a tecnologia
 
 :star: **Bonus:**<br>
-Some ideas for better skills have been added and put into the game
-Resources:
+Algumas ideias para melhores habilidades foram adicionadas e colocadas no jogo
+Recursos:
 
-1.  Show the location of each move in the format (col, row), for each move in the history.
-2.  Make the item in the play list that is currently selected bold.
-3. Rewrite the Board component to use 2 loops to make the squares, instead of making them hardcoded.
-4. Add a toggle button that allows you to sort your moves in ascending or descending order.
-5. When someone wins, highlight the 3 squares that caused the victory.
-6. When no one wins, display a message stating that the result was a tie.
+1. Mostre a localização de cada movimento no formato (coluna, linha), para cada movimento no histórico.
+2. Coloque em negrito o item da lista de reprodução atualmente selecionado.
+3. Reescreva o componente Placa para usar 2 loops para fazer os quadrados, em vez de torná-los codificados.
+4. Adicione um botão de alternância que permite classificar seus movimentos em ordem crescente ou decrescente.
+5. Quando alguém vencer, destaque os 3 quadrados que causaram a vitória.
+6. Quando ninguém ganhar, exiba uma mensagem informando que o resultado foi um empate.
 
-:bicyclist: **Run:**
- - Clone this repository
- - Install the dependences:
+:bicyclist: **Corra:**
+ - Clone este repositório
+ - Instale as dependências:
 ```
 npm install
 ```
-- To run:
+- Corra:
 ```
 npm start
 ```
 
   
-🛸 **Technologies:**
+🛸 **Tecnologias:**
 - React.js
